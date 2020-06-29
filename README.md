@@ -1,0 +1,2 @@
+# ClUENER-Pretreatment
+细粒度中文命名实体识别数据集处理，将json数据处理成BIOES标注的数据。CLUENER dataset pretreatment
